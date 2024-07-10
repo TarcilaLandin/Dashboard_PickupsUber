@@ -10,7 +10,7 @@ Dashboard para análise de corridas da Uber em Nova York, feito com Python.
 - Exibir um mapa com os corridas filtrados por hora
 
 ## 💻 Projeto
-<a href="https://dashboard-app-tkrf2ldvd3xdwwhwjfp9gf.streamlit.app" target="_blank">Ver o projeto em tempo real</a>
+<a href="https://dashboardpickupsuber-eetcalroyeuppmcyjgmey2.streamlit.app" target="_blank">Ver o projeto em tempo real</a>
 
 ## 👨‍💻 Tecnologias Utilizadas
 
